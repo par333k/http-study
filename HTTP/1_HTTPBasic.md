@@ -1,4 +1,6 @@
 ## HTTP 기본
+> HTTP 스펙 : RFC 7230~7235 스펙으로 공부해야 함    
+> https://tools.ietf.org/html/rfc7230
 1. HTTP란 ?
    1. HyperText Transfer Protocol의 약자
       1. 지금은 HyperText가 아닌 모든것에 사용
